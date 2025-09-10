@@ -84,7 +84,7 @@ This project was developed as part of an Android assessment and demonstrates int
 
 \- Java version: Java 11
 
-\- Android SDK Target: API 33 (Android 13)  
+\- Android SDK Target: API 36 (Android 16)  
 
 \- Minimum SDK: API 29 (Android 10 Q)
 
