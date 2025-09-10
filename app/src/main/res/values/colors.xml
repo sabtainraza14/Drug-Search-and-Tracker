@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#007AFF</color>
+    <color name="primary_color_variant">#0051A8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="grayish_blue">#E0EAFF</color>
+    <color name="maroon">#831A12</color>
+    <color name="green">#23D52A</color>
+    <color name="grey">#D6D7D7</color>
+    <color name="dark_grey">#9B9B9B</color>
+    <color name="transparent">#00000000</color>
+    <color name="disabled_color">#44000000</color>
+    <color name="lightGrey">#CACACA</color>
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "357950564263",
+    "firebase_url": "https://drug-search-and-tracker-e4482-default-rtdb.firebaseio.com",
+    "project_id": "drug-search-and-tracker-e4482",
+    "storage_bucket": "drug-search-and-tracker-e4482.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357950564263:android:27f138aa84d7a13bf57882",
+        "android_client_info": {
+          "package_name": "com.example.drugsearchandtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0ImTHs-EXGNjgv3KYSiFe_DVWKPZAOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
